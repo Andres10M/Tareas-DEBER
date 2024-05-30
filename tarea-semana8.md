@@ -7,7 +7,7 @@ FROM product;....
   ```
   - Captura:
 
-<img src="./carpetas/CARPETAS /Captura de pantalla 2024-05-30 154947.png " alt="drawing" width="500"/>
+<img src="./carpetas/CARPETAS/Captura de pantalla 2024-05-30 154947.png" alt="drawing" width="500"/>
 
 ## 2. Numero de clientes por ciudad..
   - Sentencia:
