@@ -19,7 +19,7 @@ GROUP BY (city)....
   ```
   - Captura:
 
-<img src="./carpetas/CARPETAS /Captura de pantalla 2024-05-30 154947.png  " alt="drawing" width="500"/>
+<img src="./carpetas/CARPETAS/Sin título.png  " alt="drawing" width="500"/>
 
 
 
