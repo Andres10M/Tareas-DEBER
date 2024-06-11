@@ -7,7 +7,7 @@
     ```
  - Captura: 
 
- <img src = "../../src/gbd-img-week8/first.png" width = "500" >
+ <img src = "carpetas/Where/Captu 1.png" width = "500" >
 
 ---
 
@@ -18,7 +18,7 @@ SELECT DISTINCT city, COUNT (city) FROM client GROUP BY (city);
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/second.png" width = "500" >
+<img src = "carpetas/Where/Captu 2.png" width = "500" >
 
 ---
 ### 3.- Contar el número de productos cuyo precio está dentro de un rango específico 
@@ -28,7 +28,7 @@ SELECT COUNT (*) AS products_price_range_from_100_to_500 FROM product WHERE pric
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/third.png" width = "500" >
+<img src = "carpetas/Where/Captura 3.png" width = "500" >
 
 ---
 
@@ -39,7 +39,7 @@ SELECT * FROM client WHERE city = 'New York' AND type_of_client = 'VIP';
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/fourth.png" width = "500" >
+<img src = "carpetas/Where/Captu4.png" width = "500" >
 
 ---
 
@@ -50,7 +50,7 @@ SELECT * FROM product WHERE category = 'Audio' AND price >= 100;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/fifth.png" width = "500" >
+<img src = "carpetas/Where/Captu5.png" width = "500" >
 
 ---
 
@@ -61,7 +61,7 @@ SELECT * FROM product WHERE year_of_production = '2023' AND country_of_origin = 
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/sixth.png" width = "500" >
+<img src = "carpetas/Where/Captu6.png" width = "500" >
 
 ---
 
@@ -72,7 +72,7 @@ SELECT * FROM client WHERE fullname LIKE 'J%';
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/seventh.png" width = "500" >
+<img src = "carpetas/Where/Captu7.png" width = "500" >
 
 ---
 
@@ -83,7 +83,7 @@ SELECT * FROM client WHERE city LIKE '%A%';
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/eigth.png" width = "500" >
+<img src = "carpetas/Where/Captu8.png" width = "500" >
 
 ---
 
