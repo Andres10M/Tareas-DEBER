@@ -1,6 +1,7 @@
-# FUNCIONES SEGREGACIÓN.
+# SENTENCIAS WHERE MULTICRITERIO.
 ## INSTRUCCIONES:
-### 1.- Obtener la edad promedio de los miembros:
+### 1.- Contar el número de productos de una categoría específica.
+- Sentencia: 
     ```
     SELECT COUNT (*) AS categoria_Audio FROM product WHERE category = 'Audio'; 
     ```
@@ -85,5 +86,7 @@ SELECT * FROM client WHERE city LIKE '%A%';
 <img src = "../../src/gbd-img-week8/eigth.png" width = "500" alt = "seventhCapture">
 
 ---
+
+
 
 
