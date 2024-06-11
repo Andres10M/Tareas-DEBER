@@ -9,7 +9,7 @@ SELECT AVG(age) AS average_age FROM Members;
   ```
  - Captura: 
 
- <img src = "../../src/gbd-img-week8/first.png" width = "500" alt = "firstCapture">
+ <img src = "carpetas/sum/Captura.png" width = "500" alt = "firstCapture">
 
 ---
 
@@ -22,7 +22,7 @@ FROM Members;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/second.png" width = "500" alt = "secondCapture">
+<img src = "carpetas/sum/Captura de pantalla 2.png" width = "500" alt = "secondCapture">
 
 ---
 ### 3.- Obtener el número total de registros asistidos:
@@ -33,7 +33,7 @@ FROM Registrations;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/third.png" width = "500" alt = "thirdCapture">
+<img src = "carpetas/sum/Captura de pantalla 3.png" width = "500" alt = "thirdCapture">
 
 ---
 
@@ -44,7 +44,7 @@ FROM Registrations;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/fourth.png" width = "500" alt = "fourthCapture">
+<img src = "carpetas/sum/Captura de pantalla 4.png" width = "500" alt = "fourthCapture">
 
 ---
 
@@ -58,7 +58,7 @@ GROUP BY city;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/fifth.png" width = "500" alt = "fifthCapture">
+<img src = "carpetas/sum/Captura de pantalla 5.png" width = "500" alt = "fifthCapture">
 
 ---
 
@@ -72,7 +72,7 @@ GROUP BY member_id;
 ```
 - Captura:
 
-<img src = "../../src/gbd-img-week8/sixth.png" width = "500" alt = "sixthCapture">
+<img src = "carpetas/sum/Captura de pantalla 6.png" width = "500" alt = "sixthCapture">
 
 ---
 
@@ -82,8 +82,8 @@ GROUP BY member_id;
 
 ```
 - Captura:
-
-<img src = "../../src/gbd-img-week8/seventh.png" width = "500" alt = "seventhCapture">
+  
+<img src = "carpetas/sum/Captura de pantalla 7.png" width = "500" alt = "seventhCapture">
 
 ---
 
