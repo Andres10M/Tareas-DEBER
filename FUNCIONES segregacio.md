@@ -79,7 +79,9 @@ GROUP BY member_id;
 ### 7.-Obtener el número de registros por cada conferencia:
 - Sentencia: 
 ```
-
+SELECT event_id, COUNT(*) AS registrations_count
+FROM Registrations
+GROUP BY event_id;
 ```
 - Captura:
   
